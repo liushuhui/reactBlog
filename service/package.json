@@ -1,0 +1,23 @@
+{
+  "name": "service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "bcrypt": "^2.0.1",
+    "cookies": "^0.8.0",
+    "glob": "^7.1.6",
+    "http-assert": "^1.4.1",
+    "koa": "^2.11.0",
+    "koa-bodyparser": "^4.2.1",
+    "koa-router": "^7.4.0",
+    "koa2-cors": "^2.0.5",
+    "mongoose": "^5.8.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
